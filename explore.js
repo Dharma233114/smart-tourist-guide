@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // API Constants
-    const GEMINI_API_KEY = 'AIzaSyCfSagTjsbHlp_ukim8qxEiIzrHrLBdwvs';
+    const GEMINI_API_KEY = 'AIzaSyCrWuOh0mS7TUaekXO-gBqQWnelKpvasb8';
     const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent';
 
     // Initialize map with higher zoom level
